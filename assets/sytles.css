@@ -314,7 +314,7 @@ footer h3 {
         padding: 2%;
     }
     header .logo img {
-        max-height: 200px;
+        max-height: 180px;
     }
     .about {
         padding: 5% 12%;
@@ -331,7 +331,7 @@ footer h3 {
         justify-content: center;
     }
     .single-card {
-        width: 200px;
+        width: 160px;
     }
     .content {
         flex-direction: column;
