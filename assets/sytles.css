@@ -314,7 +314,7 @@ footer h3 {
         padding: 2%;
     }
     header .logo img {
-        max-height: 330px;
+        max-height: 200px;
     }
     .about {
         padding: 5% 12%;
@@ -325,6 +325,13 @@ footer h3 {
     }
     .tabel {
         flex-direction: column;
+    }
+    .tabel-fill {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .single-card {
+        width: 200px;
     }
     .content {
         flex-direction: column;
